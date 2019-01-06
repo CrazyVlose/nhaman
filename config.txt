@@ -1,0 +1,5 @@
+﻿token=NTI1MzY0MjA0MTc0MzExNDQ0.Dv1jLQ.ycGOU2yT5g4EbKHMzbDu9bUy-9k
+owner=442088385431994378
+prefix=o
+stayinchannel=true
+songinstatus=false 
