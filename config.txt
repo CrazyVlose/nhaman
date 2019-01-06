@@ -1,5 +1,5 @@
 Token=NTMxNTQ3NjY5MjgyMTYwNjUx.DxPiKw.qUY0V-nA3OMQP_zWA-mGmEYVfVc
-owner=442088385431994378
-prefix=o
+owner=379187358374952971
+prefix=N
 stayinchannel=true
 songinstatus=false 
